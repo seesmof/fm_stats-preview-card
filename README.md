@@ -35,7 +35,11 @@ Basic TailwindCSS single webpage for some practice of my TailwindCSS skills. Sta
 
 - [Live View](https://seesmof.github.io/fm_stats-preview-card/)
 
-![Website Page](./img/QR-Code-Component.png)
+![Website Page](./img/../images/Stats-Preview-Component-seesmof-Frontend-Mentor_desktop.png)
+
+---
+
+![Website Page](./img/../images/Stats-Preview-Component-seesmof-Frontend-Mentor.png)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
